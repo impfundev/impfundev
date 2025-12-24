@@ -4,9 +4,6 @@ Hii, I'm Ilham Maulana Pratama. I am a web developer with in building full-stack
 
 I enjoy collaborating with designers who have a high taste of design and learning new technologies and tools to improve my web development skills.
 
-- 🌱 I’m currently working Full-Stack framework React, Next.js
-- 👯 I’m looking to open position in frontend or collaborate on any Next.js, React, and Node.js projects
-
 <!--
 **impfundev/impfundev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
